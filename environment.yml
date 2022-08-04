@@ -3,6 +3,8 @@ dependencies:
   - datashader
   - hvplot
   - geoviews
+  - xarray
+  - fsspec
   - holoviz
   - bokeh=2.4.3
   - pip
