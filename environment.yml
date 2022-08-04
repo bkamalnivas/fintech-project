@@ -1,6 +1,7 @@
 name: project-deploy
 dependencies:
   - bokeh=2.4.3
+  - holoviz
   - pip
   - pip:
     - yfinance
