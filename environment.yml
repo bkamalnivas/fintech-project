@@ -1,6 +1,9 @@
 name: project-deploy
 dependencies:
-  - pyviz holoviz
+  - datashader
+  - hvplot
+  - geoviews
+  - holoviz
   - bokeh=2.4.3
   - pip
   - pip:
