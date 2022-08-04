@@ -1,13 +1,5 @@
 name: project-deploy
-channels:
-  - conda-forge
-  - defaults
 dependencies:
-  - datashader
-  - hvplot
-  - geoviews
-  - xarray
-  - fsspec
   - bokeh=2.4.3
   - pip
   - pip:
